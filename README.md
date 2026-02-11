@@ -1,4 +1,4 @@
-# 🚀 Générateur de Post LinkedIn à partir d’une image
+# Générateur de Post LinkedIn à partir d’une image
 
 Mini outil IA permettant de générer un post LinkedIn en français à partir d’une image.
 
